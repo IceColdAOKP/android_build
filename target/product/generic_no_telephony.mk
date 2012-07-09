@@ -32,6 +32,7 @@ PRODUCT_PACKAGES := \
     Gallery2 \
     LatinIME \
     Trebuchet \
+    Music \
     MusicFX \
     MusicVisualization \
     NoiseField \
